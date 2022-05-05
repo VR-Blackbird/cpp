@@ -15,6 +15,7 @@ int main()
 
     cout << "Integer occupies : " << sizeof(int) << " Bytes" << endl;
     cout << "Float occupies : " << sizeof(float) << " Bytes" << endl;
+    cout << "dec_number variable occupies : " << sizeof(dec_number) << " Bytes" << endl;
 
     return 0;
 }
