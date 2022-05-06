@@ -7,7 +7,9 @@ int main()
     int oct_number = 017;
     int bin_number = 0b1000101;
     double hex_number = 0xFFFFFFFD;
-
+    int negative_number{-10};
+    signed int signed_number{10};
+    unsigned int unsigned_number{1};
     cout << "The different numbers are: " << dec_number << endl
          << oct_number << endl
          << bin_number << endl
@@ -16,6 +18,8 @@ int main()
     cout << "Integer occupies : " << sizeof(int) << " Bytes" << endl;
     cout << "Float occupies : " << sizeof(float) << " Bytes" << endl;
     cout << "dec_number variable occupies : " << sizeof(dec_number) << " Bytes" << endl;
-
+    cout << "The negative number is : " << negative_number << endl;
+    cout << "Signed number is : " << signed_number << endl;
+    cout << "Unsigned number is : " << unsigned_number << endl;
     return 0;
 }
