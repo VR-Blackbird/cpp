@@ -13,6 +13,7 @@ int main()
     unsigned int unsigned_number{1};
 
     // Fractions
+    long double long_double = 10.12345;
     double num1 = -10;
     double num2 = 23;
     double random{};
@@ -22,6 +23,7 @@ int main()
 
     cout << "The div output is : " << div << endl;
 
+    cout << "Long double size is : " << sizeof(long_double) << endl;
     //
     cout << "The different numbers are: " << dec_number << endl
          << oct_number << endl
