@@ -1,1 +1,6 @@
 This repo contains some c++ code.
+
+Variable Storage durations in C++:
+    Static storage - variable dies when the program exits.
+    local storage - variables declared within a block will die once the execution comes out of the block (Variable lives within that block).
+    Dynamic storage - We decide on when the variable dies.
