@@ -6,11 +6,6 @@ int main()
     int day;
     cout << "Which day is today [1: Monday], ......, [7: Sunday]" << endl;
     cin >> day;
-    // if (day < 1 || day > 7)
-    // {
-    //     cout << day << " is not a valid day!";
-    //     return 0;
-    // }
 
     switch (day)
     {
