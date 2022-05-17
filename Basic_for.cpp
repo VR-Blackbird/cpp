@@ -26,4 +26,13 @@ int main()
     {
         cout << value << endl;
     }
+    cout << endl;
+    // Indexing in range based for loops
+
+    for (size_t i{}; i < 10; ++i)
+    {
+        cout << values[i] << endl;
+    }
+
+    cout << values[19]; // Out of index prints garbage values
 }
