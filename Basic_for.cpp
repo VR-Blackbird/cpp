@@ -11,7 +11,7 @@ int main()
     }
 
     cout << endl;
-    for (size_t i{1}; i <= Count; ++i) // Curly braces can be omitted if we have only one statement in loop body
+    for (size_t i{1}; i <= Count; ++i) // Curly braces can be omitted if we have only one statement in loop -body
         cout << pow(i, 3) << endl;
 
     // Range based for loops
