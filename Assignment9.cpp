@@ -128,4 +128,5 @@ int main()
     cin >> day;
     cout << endl;
     calendar(year, day);
+    return 0;
 }
