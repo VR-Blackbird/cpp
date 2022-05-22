@@ -1,5 +1,4 @@
 #include <iostream>
-
 int main()
 {
 
@@ -86,6 +85,17 @@ int main()
         sum += element;
     }
     std::cout << "Score sum : " << sum << std::endl;
+
+    // Size of an array
+
+    std::cout << "Size of array is : " << sizeof(scores) << std::endl;
+    // Standard way to get number of elements in array
+
+    std::cout << "Number of elements in the array is : " << sizeof(scores) / sizeof(scores[0]) << std::endl;
+
+    // Easy way to get number of elements in an array
+
+    std::cout << "Number of elements in array easy way is : " << std::size(scores) << std::endl;
 
     return 0;
 }
