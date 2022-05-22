@@ -97,5 +97,21 @@ int main()
 
     std::cout << "Number of elements in array easy way is : " << std::size(scores) << std::endl;
 
+    // Array of characters
+
+    char message_null[6]{'H', 'e', 'l', 'l', 'o', '\0'};
+    char message[5]{'H', 'e', 'l', 'l', 'o'}; // not null terminated
+    for (auto c : message)
+    {
+        std::cout << c << std::endl;
+    }
+
+    // Another way of doing this
+
+    char message1[]{"Hello"};
+    message1[1] = 'a';
+    std::cout << message1 << std::endl;
+    std::cout << sizeof(message1) << std::endl;
+
     return 0;
 }
