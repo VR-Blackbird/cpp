@@ -13,3 +13,10 @@
     - Character Array
     - exercise12 (Hunt for Vowels)
     - Random Numbers (With and without seed using current time)
+
+## Day 15 :
+    - Fortune teller
+    - exercise13 (Find common elements between two arrays)
+    - Multi Dimentional Arrays [int]
+    - Multi Dimentional Arrays [char]
+    - Optimizing Fortune Teller 
