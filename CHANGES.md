@@ -20,3 +20,6 @@
     - Multi Dimentional Arrays [int]
     - Multi Dimentional Arrays [char]
     - Optimizing Fortune Teller 
+
+## Day 16 :
+    - Assignment10 (The Calculator quiz)
