@@ -6,7 +6,20 @@ int main()
     // srand() has to run once per program run
     std::srand(std::time(0)); // Seed
 
-    char predictions[][100]{
+    // Waste of memory
+    //  char predictions[][100]{
+    //      "a lot of kinds running in the backyard!",
+    //      "a lot of empty beer bootles on your work table.",
+    //      "you Partying too much with kids wearing weird clothes.",
+    //      "you running away from something really scary",
+    //      "clouds gathering in the sky and an army standing ready for war",
+    //      "dogs running around in a deserted empty city",
+    //      "a lot of cars stuck in a terrible traffic jam",
+    //      "you sitting in the dark typing lots of lines of code on your dirty computer",
+    //      "you yelling at your boss. And oh no! You get fired!",
+    //      "you laughing your lungs out. I've never seen this before."};
+
+    const char *predictions[]{
         "a lot of kinds running in the backyard!",
         "a lot of empty beer bootles on your work table.",
         "you Partying too much with kids wearing weird clothes.",
