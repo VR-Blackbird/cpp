@@ -23,3 +23,11 @@
 
 ## Day 16 :
     - Assignment10 (The Calculator quiz)
+
+## Day 17 :
+    - pointers overview
+    - Fortune Teller optimization using pointers
+    - Const Pointer and pointer to const
+    - Array of const pointers to const character
+    - Exercise 14 (Where does the big guy live?)
+    - Swap Arrays (Constant Time complexity using pointers)
