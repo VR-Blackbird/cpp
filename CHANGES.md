@@ -31,3 +31,10 @@
     - Array of const pointers to const character
     - Exercise 14 (Where does the big guy live?)
     - Swap Arrays (Constant Time complexity using pointers)
+
+## Day 18 :
+    - Pointer Arithmetic
+    - Exercise 15 (Shoot forward using pointers)
+    - Distance between elements (pointers)
+    - Exercise 16 (Finding Nemo - Address of a little guy using pointer arithmetic)
+    - PointerArithmetic comparison (Compares the adresses)
