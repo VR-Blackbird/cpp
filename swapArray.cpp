@@ -27,7 +27,7 @@ int main()
 
     for (size_t i{0}; i < 5; ++i)
     {
-        cout << parr1[i] << " " << parr2[i] << endl;
+        cout << *(parr1 + i) << " " << *(parr2 + i) << endl;
     }
 
     return 0;
