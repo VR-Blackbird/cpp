@@ -38,3 +38,8 @@
     - Distance between elements (pointers)
     - Exercise 16 (Finding Nemo - Address of a little guy using pointer arithmetic)
     - PointerArithmetic comparison (Compares the adresses)
+
+## Day 19 :
+    - Dynamic memory Allocation
+    - Dangling Pointers
+    - Memory Leaks
