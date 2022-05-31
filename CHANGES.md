@@ -43,3 +43,11 @@
     - Dynamic memory Allocation
     - Dangling Pointers
     - Memory Leaks
+
+## Day 20 :
+    - Dynamic Arrays
+    - Exercise 17 (Merge two arrays dynamic)
+    - References
+    - Exercise 18 (Declare references)
+    - References vs pointers
+    - References to update values in a range based for loop(in-place updates)
