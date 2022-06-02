@@ -51,3 +51,8 @@
     - Exercise 18 (Declare references)
     - References vs pointers
     - References to update values in a range based for loop(in-place updates)
+
+## Day 21 :
+    - Character manipulation
+    - Exercise 19 (How many vowels and consonants)
+    - Exercise 20 (Replace spaces with underscores)
