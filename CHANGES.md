@@ -56,3 +56,6 @@
     - Character manipulation
     - Exercise 19 (How many vowels and consonants)
     - Exercise 20 (Replace spaces with underscores)
+
+## Day 22 :
+    - C-strings
