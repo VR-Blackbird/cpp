@@ -59,3 +59,14 @@
 
 ## Day 22 :
     - C-strings
+
+## Day 23 :
+    - C strings (Concatenation and copy)
+    - Exercise 21 (Get something meaningful out of gibberish character arrays)
+    - std::string
+    - Exercise 22 (Build from raw pieces)
+    - Size and capacity of std::string
+    - Modify std::strings
+    - Compare std::strings
+    - Exercise 23 (Greatest string in the array of strings)
+    - String searching
