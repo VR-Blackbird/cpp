@@ -70,3 +70,8 @@
     - Compare std::strings
     - Exercise 23 (Greatest string in the array of strings)
     - String searching
+
+## Day 24 :
+    - c++ functions
+    - Exercise 25 (Function to get sum of digits present in a number)
+    - Function declaration and function definition
