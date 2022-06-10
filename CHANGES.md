@@ -75,3 +75,15 @@
     - c++ functions
     - Exercise 25 (Function to get sum of digits present in a number)
     - Function declaration and function definition
+
+## Day 25 : 
+    - Multiple files with headers (Linkers)
+    - Exercise 27 (Check if a number is a palindrome)
+    - Pass by value
+    - Pass by const value
+    - Pass by pointers
+    - Pass by pointers to const
+    - Pass by const pointer to a const value
+    - Pass by reference
+    - Pass by const reference
+    - Exercise 28 (Find the characters)
