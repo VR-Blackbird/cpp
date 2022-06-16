@@ -87,3 +87,7 @@
     - Pass by reference
     - Pass by const reference
     - Exercise 28 (Find the characters)
+
+## Day 26 :
+    - Exercise 28 continue
+    - Array function parameters
