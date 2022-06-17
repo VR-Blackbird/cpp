@@ -91,3 +91,10 @@
 ## Day 26 :
     - Exercise 28 continue
     - Array function parameters
+
+## Day 27 :
+    - Sized Array function parameters
+    - Pass array as reference
+    - Multi dimentional array parameters
+    - Default arguments
+    - Implicit conversions
