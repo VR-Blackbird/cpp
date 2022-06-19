@@ -98,3 +98,5 @@
     - Multi dimentional array parameters
     - Default arguments
     - Implicit conversions
+    - Implicit conversions with references
+    - Implicit conversion with pointers
