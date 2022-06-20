@@ -108,3 +108,10 @@
     - Exercise 29 (Day of the week)
     - 'using' Keyword with enum
     - Legacy enumerators
+
+## Day 28 :
+    - Arguments to a main function
+    - Calculator V1 using arguments to main function
+    - IO parameters in functions
+    - Exercise 30 (Check if the sum is even)
+    - Return by value
