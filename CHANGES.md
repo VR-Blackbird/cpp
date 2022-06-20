@@ -100,3 +100,11 @@
     - Implicit conversions
     - Implicit conversions with references
     - Implicit conversion with pointers
+    - String Views
+    - Convert from string_view to string
+    - Constexpr function
+    - Consteval function
+    - Enum classes
+    - Exercise 29 (Day of the week)
+    - 'using' Keyword with enum
+    - Legacy enumerators
