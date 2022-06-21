@@ -115,3 +115,8 @@
     - IO parameters in functions
     - Exercise 30 (Check if the sum is even)
     - Return by value
+
+## Day 29 :
+    - Return by reference
+    - Return by pointer
+    - 
