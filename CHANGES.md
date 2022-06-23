@@ -119,4 +119,8 @@
 ## Day 29 :
     - Return by reference
     - Return by pointer
-    - 
+    - Return array element by pointer
+    - Exercise 31 (Fixed instructor's messed up code)
+    - Auto type-deductions
+    - Function return type deduction
+    - Function return type deduction for reference
