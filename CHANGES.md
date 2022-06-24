@@ -124,3 +124,10 @@
     - Auto type-deductions
     - Function return type deduction
     - Function return type deduction for reference
+    - Function overloading with different parameters
+    - Function overloading with pointer parameters
+    - Function overloading with reference parameters
+    - Exercise 32 (Overloads)
+    - Overloading with const parameter
+    - Overloading pointer/const_pointer to const
+    - Overloading const references as parameters
