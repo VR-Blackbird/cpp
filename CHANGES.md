@@ -131,3 +131,14 @@
     - Overloading with const parameter
     - Overloading pointer/const_pointer to const
     - Overloading const references as parameters
+
+## Day 30 :
+    - lambda functions overview
+    - Capture lists capture specific values
+    - Capture lists capture all values outside lambda
+    - Misfits - static variables
+    - Exercise 33 (Self tracking function)
+    - Exercise 34 (Odd series)
+    - Inline functions
+    - recurssion
+    - Exercise 35 (Factorial using recurrsion)
