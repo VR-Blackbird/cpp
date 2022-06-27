@@ -142,3 +142,13 @@
     - Inline functions
     - recurssion
     - Exercise 35 (Factorial using recurrsion)
+
+## Day 31 :
+    - Function templates overview
+    - Exercise 36 (Hunt the elements down using function templates)
+    - Function template type deduction
+    - Function templates by reference
+    - EXercise 37 (Swap them up)
+    - Template specialisation
+    - Exercise 38 (find em const char*)
+    - Function template with overloading
