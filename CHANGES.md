@@ -152,3 +152,12 @@
     - Template specialisation
     - Exercise 38 (find em const char*)
     - Function template with overloading
+    - Exercise 39 (const char* function template overloads)
+
+## Day 32 :
+    - Function template with multiple parameters
+    - Exercise 40 (Put them number together)
+    - Function template return type deduction with auto
+    - Function template return type deduction with Decltype and trailing return types
+    - Decl type auto
+    - DEfault arguments templates
