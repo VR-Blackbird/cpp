@@ -161,3 +161,13 @@
     - Function template return type deduction with Decltype and trailing return types
     - Decl type auto
     - DEfault arguments templates
+
+## Day 33 :
+    - Non-type template parameters
+    - EXercise 41 (Find them non type template parameters)
+    - Auto template types
+    - Type traits
+    - constexpr if
+    - concepts
+    - custom concepts
+    - Assignment 11
