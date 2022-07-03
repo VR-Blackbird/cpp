@@ -171,3 +171,6 @@
     - concepts
     - custom concepts
     - Assignment 11
+    - Requires clause
+    - Combining concepts
+    - Assignment 12
