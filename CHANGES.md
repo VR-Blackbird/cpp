@@ -174,3 +174,8 @@
     - Requires clause
     - Combining concepts
     - Assignment 12
+
+## Day 34 :
+    - Classes overview
+    - Exercise 42 ( Class box)
+    - Exercise 43 ( 2D )
