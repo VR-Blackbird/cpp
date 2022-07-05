@@ -37,11 +37,11 @@ public:
 
 public:
     // Constructors declaration
-    Box(double l = 2, double w = 2, double h = 2)
+    Box(double l = 2, double w = 3, double h = 5)
     {
         m_length = l;
-        m_width = l;
-        m_height = l;
+        m_width = w;
+        m_height = h;
     }
     double base_area()
     {
@@ -55,7 +55,7 @@ public:
 
 int main()
 {
-    Box box1(10, 10, 10);
+    Box box1(10, 20, 30);
     std::cout << box1.base_area() << std::endl;
     std::cout << box1.volume() << std::endl;
     Cylinder c1;
