@@ -179,3 +179,10 @@
     - Classes overview
     - Exercise 42 ( Class box)
     - Exercise 43 ( 2D )
+    - Constructor
+    - Exercise 44 (Constructors with box class)
+    - Exercise 45 (Constructors with points class)
+    - Defaulted constructors
+    - Setters and getters
+    - EXercise 46 (Point printing like a gentleman)
+    - Exercise 47 (Classes in multiple files)
