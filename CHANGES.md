@@ -186,3 +186,13 @@
     - Setters and getters
     - EXercise 46 (Point printing like a gentleman)
     - Exercise 47 (Classes in multiple files)
+
+## Day 35 :
+    - Arrow pointers
+    - Destructors
+    - Order of constructors and destructors
+    - this pointer
+    - Exercise 48 (this setter chains using pointers)
+    - Exercise 49 (this setter chains using references)
+    - struct vs class
+    - size of an object
