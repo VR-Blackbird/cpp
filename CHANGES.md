@@ -196,3 +196,6 @@
     - Exercise 49 (this setter chains using references)
     - struct vs class
     - size of an object
+    - Const objects
+    - const objects as function arguments
+    - Const member functions -> Let the compiler know that the member functions are const and not modifiable
