@@ -199,3 +199,11 @@
     - Const objects
     - const objects as function arguments
     - Const member functions -> Let the compiler know that the member functions are const and not modifiable
+
+## Day 36 :
+    - Exercise 50 (Use const member function)
+    - getters that work as setters
+    - Exercise 51 (Kill two birds with one stone)
+    - dangling pointers and references
+    - Mutable member functions
+    - Structured bindings
