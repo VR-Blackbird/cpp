@@ -202,8 +202,8 @@
 
 ## Day 36 :
     - Exercise 50 (Use const member function)
-    - getters that work as setters
+    - Getters that work as setters
     - Exercise 51 (Kill two birds with one stone)
-    - dangling pointers and references
+    - Dangling pointers and references
     - Mutable member functions
     - Structured bindings
