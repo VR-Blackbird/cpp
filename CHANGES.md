@@ -207,3 +207,9 @@
     - Dangling pointers and references
     - Mutable member functions
     - Structured bindings
+
+## Day 37 :
+    - Default constructors
+    - Exercise 52 ( Default Points )
+    - Initialiser lists for constructors
+    - EXercise 53 ( Box like a gentleman )
