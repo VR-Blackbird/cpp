@@ -212,4 +212,18 @@
     - Default constructors
     - Exercise 52 ( Default Points )
     - Initialiser lists for constructors
-    - EXercise 53 ( Box like a gentleman )
+    - Exercise 53 ( Box like a gentleman )
+    - Explicit constructors
+
+## Day 38 :
+    - Explicit constructors
+    - Hackerank functions
+    - Hackerank pointers
+    - Hackerrank Multi-dimentional array DMA
+    - Constructor delegation
+    - Exercise 54 (Delegated constructors)
+    - Copy Constructors
+    - Exercise 55 (Point fixer)
+    - Object array copies
+    - shallow and deep copy
+    
