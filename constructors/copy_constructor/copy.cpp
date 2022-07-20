@@ -1,22 +1,54 @@
-#include "copy.h"
+#include "person.h"
+#include <iostream>
 
-Person::Person(std::string l_name, std::string f_name, int *age_param) : lastname{l_name}, first_name{f_name}, age{age_param}
+Person::Person(const std::string &l_name, const std::string &f_name, int age_param) : last_name{l_name}, first_name(f_name), age{new int(age_param)}
 {
 }
 
-Person::Person(const Person &some_person) : lastname(some_person.get_lname()), first_name(some_person.get_fname()), age(new int(*(some_person.get_age())))
+Person::Person(const std::string &l_name, const std::string &f_name) : Person::Person(l_name, f_name, 12)
 {
 }
 
-std::string Person::get_fname() const
+Person::Person(const std::string &l_name) : Person::Person(l_name, "remo", 13)
 {
-    return first_name;
 }
-std::string Person::get_lname() const
+Person::Person(const Person &p1) : last_name{p1.get_lastname()}, first_name{p1.get_firstname()}, age{new int(*(p1.get_age()))}
 {
-    return lastname;
+}
+
+Person::~Person()
+{
+    delete age;
+}
+
+void Person::set_firstname(const std::string &f_name)
+{
+    this->first_name = f_name;
+}
+void Person::set_lastname(const std::string &l_name)
+{
+    this->last_name = l_name;
+}
+void Person::set_age(int age)
+{
+    *(this->age) = age;
+}
+
+std::string Person::get_lastname() const
+{
+    return this->last_name;
+}
+std::string Person::get_firstname() const
+{
+    return this->first_name;
 }
 int *Person::get_age() const
 {
-    return age;
+    return this->age;
+}
+void Person::print_info() const
+{
+    std::cout << "First Name => " << this->first_name << std::endl
+              << "Last Name => " << this->last_name << std::endl
+              << "Age => " << *(this->age) << std::endl;
 }

@@ -1,23 +1,13 @@
 #include <iostream>
-#include <string.h>
-#include "copy.h"
+#include "person.h"
 
 int main()
 {
-    int age{26};
-    const Person p1("king", "john", &age);
+    Person p1("benjamin", "mark", 14);
     Person p2(p1);
-    p1.print_info();
-    std::cout << std::endl
-              << std::endl;
-    p2.print_info();
-    std::cout << std::endl;
-
-    p2.set_age(2);
-    p1.print_info();
-    std::cout << std::endl;
-    p2.print_info();
-    std::cout << std::endl;
+    p2.set_age(19);
+    std::cout << *(p1.get_age()) << std::endl;
+    std::cout << *(p2.get_age()) << std::endl;
 
     return 0;
 }
