@@ -3,6 +3,7 @@
 
 Square::Square(double m_side) : Square{m_side, "red", 1}
 {
+    position = 12;
     std::cout << "Inside single parameter constructor" << std::endl;
 }
 
