@@ -6,6 +6,10 @@ Point::Point(double x_param, double y_param)
 {
     std::cout << "Point constructed  : " << this << std::endl;
 }
+
+Point::Point(double x_param) : Point(x_param, 12)
+{
+}
 /*
 //Copy constructor
 Point::Point(const Point& source_point)

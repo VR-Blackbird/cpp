@@ -18,6 +18,7 @@ private:
 public:
     Point() = delete;
     Point(double x_param, double y_param);
+    Point(double x_param);
     ~Point();
     // Copy constructor
     Point(const Point &source_point) = delete;
