@@ -226,4 +226,10 @@
     - Exercise 55 (Point fixer)
     - Object array copies
     - shallow and deep copy
+
+## Day 39 :
+    - Move constructors
+    - Deleted constructors
+    - Initialiser list constructors
+    - Exercise 56
     
