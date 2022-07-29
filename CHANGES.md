@@ -232,4 +232,12 @@
     - Deleted constructors
     - Initialiser list constructors
     - Exercise 56
-    
+
+## Day 40 :
+    - Aggregate initialisation
+    - Designated initializers
+    - Uniform initialization
+    - Friend functions
+    - Exercise 57 (Measure distance)
+    - Friend Classes
+    - Exercise 58 ( Shape Factory )
