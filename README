@@ -7,3 +7,6 @@ Variable Storage durations in C++:
 
 Variable Scope in C++:
 Defines where we can access a variable
+
+
+Inline static member variables only work in c++ > 17
