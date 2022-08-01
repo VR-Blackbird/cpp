@@ -241,3 +241,15 @@
     - Exercise 57 (Measure distance)
     - Friend Classes
     - Exercise 58 ( Shape Factory )
+
+## Day 41 :
+    - Static member variables
+    - Exercise 59 ( Count'em Points )
+    - Inline static member variables
+    - Static constants post c++ 17
+    - Static constants pre c++ 17
+    - Exercise 60 (Count points like a gentleman)
+    - Exercise 61 (Cool Utility)
+    - Member variable of type self
+    - Member variable of other types
+    - Static member functions
