@@ -253,3 +253,14 @@
     - Member variable of type self
     - Member variable of other types
     - Static member functions
+
+## Day 42 :
+    - Nested classes
+    - In class member initialisation
+    - Namespaces creation
+    - Exercise 62 (Namespaces)
+    - Namespaces across multiple files
+    - Exercise 63 (Namespace multiple files)
+    - Global namespace
+    - Exercise 64 (Make it global)
+    - Built in namespace
