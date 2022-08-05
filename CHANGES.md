@@ -264,3 +264,7 @@
     - Global namespace
     - Exercise 64 (Make it global)
     - Built in namespace
+    - Using namespace declaration
+    - Anonymous namespace
+    - Nested namespace
+    - Namespace alias
